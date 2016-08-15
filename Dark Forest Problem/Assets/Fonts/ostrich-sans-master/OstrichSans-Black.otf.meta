@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c22292f7891764aa4bac6ae12f34a357
+timeCreated: 1471125674
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ostrich Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 017f3430713e8459881d4d585171ccdc, type: 3}
+  - {fileID: 12800000, guid: 2bad28c41ecf74501bfaa67af5feaf2a, type: 3}
+  - {fileID: 12800000, guid: 15a533f7b0da44402b679f04e0decd03, type: 3}
+  - {fileID: 12800000, guid: a0ccea0869a0449fbb731816afaff99d, type: 3}
+  - {fileID: 12800000, guid: 06cb7c4d7c7aa43d1b6309ad9ed2f70a, type: 3}
+  - {fileID: 12800000, guid: 27362f5eebd62436fb489b63fb75d2b5, type: 3}
+  - {fileID: 12800000, guid: 20f06d7f8c5c74e249dbff9e4dc7e000, type: 3}
+  - {fileID: 12800000, guid: 024aebffb0e34466baf084338588ede2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
